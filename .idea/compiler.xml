@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.18/481f5bfed3ae29f656eedfe9e98c8365b8ba5c57/lombok-1.18.18.jar" />
+        </processorPath>
+        <module name="qforgemods.qforgemods-debugmenu.test" />
+        <module name="qforgemods.qforgemods-updates.test" />
+        <module name="qforgemods.qforgemods-pccrash.test" />
+        <module name="qforgemods.qforgemods-actionmenu.test" />
+        <module name="qforgemods.test" />
+        <module name="qforgemods.qforgemods-pcshutdown.test" />
+        <module name="qforgemods.qforgemods-core.test" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.18/481f5bfed3ae29f656eedfe9e98c8365b8ba5c57/lombok-1.18.18.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.graalvm.truffle/truffle-dsl-processor/19.3.5/8cd684c90a516947ca68c14754c00154ae77f3cd/truffle-dsl-processor-19.3.5.jar" />
+        </processorPath>
+        <module name="qforgemods.qforgemods-pcshutdown.main" />
+        <module name="qforgemods.qforgemods-actionmenu.main" />
+        <module name="qforgemods.qforgemods-updates.main" />
+        <module name="qforgemods.qforgemods-core.main" />
+        <module name="qforgemods.qforgemods-debugmenu.main" />
+        <module name="qforgemods.main" />
+        <module name="qforgemods.qforgemods-pccrash.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="core.main" target="1.8" />
+      <module name="core.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

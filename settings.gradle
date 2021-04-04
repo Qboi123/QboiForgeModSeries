@@ -1,0 +1,8 @@
+rootProject.name = 'qforgemods'
+
+include 'qforgemods-actionmenu'
+include 'qforgemods-core'
+include 'qforgemods-debugmenu'
+include 'qforgemods-pccrash'
+include 'qforgemods-pcshutdown'
+include 'qforgemods-updates'
